@@ -1,2 +1,2 @@
-# WizardRaccoons
+# RaccoonRunecasters
 Repo for the unity project
